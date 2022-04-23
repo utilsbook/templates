@@ -29,3 +29,7 @@ server {
  return 301 https://$host$request_uri;
 }
 ```
+
+## 权限不足
+
+<https://www.programminghunter.com/article/7641278895/>
